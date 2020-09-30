@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8dropzonejs/master/dropzone.png" width="100%" alt="Follow @siddharthr0318 on Twitter"">
+
 ## About
 <h2>Step 1: download in your system.</h2>  
 
