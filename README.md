@@ -5,9 +5,9 @@
 ## About
 <h2>Step 1: download in your system.</h2>  
 
-git clone https://github.com/siddharth018/laravel-7-highcharts.git
+git clone https://github.com/siddharth018/laravel8dropzonejs.git
 
-    cd laravel-7-highcharts
+    cd laravel8dropzonejs
 
 <h2>Step 2: Configure your database from .env file</h2> 
 
@@ -16,7 +16,7 @@ git clone https://github.com/siddharth018/laravel-7-highcharts.git
 
     DB_PORT=3306
     
-    DB_DATABASE=laravel1Db
+    DB_DATABASE=laravel8dropzonejs
     
     DB_USERNAME=root
     
