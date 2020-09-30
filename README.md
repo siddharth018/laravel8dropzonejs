@@ -70,7 +70,7 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
   </a>
 
   <a href="https://github.com/sponsors/siddharth018">
-    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
+    <img src="https://raw.githubusercontent.com/siddharth018/laravel8dropzonejs/master/yotube.jpg" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
   </a>
 </p>
 
