@@ -1,7 +1,3 @@
-<p>
-    http://realprogrammer.in/laravel-7-highcharts/
-</p>
-
 ## About
 <h2>Step 1: download in your system.</h2>  
 
